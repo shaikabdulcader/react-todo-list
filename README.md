@@ -16,7 +16,7 @@
 </ul>
 
 ## Learn About
-<p>I learned to CRUD operator as well as update component elements as per the request which helped me to understand how react manipulating browser Dom.</p>
+<p>I learned to CRUD operator as well as create read update delete component elements as per the request which helped me to understand how react manipulating browser Dom.</p>
 
 
 
