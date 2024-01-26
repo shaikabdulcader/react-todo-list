@@ -24,7 +24,7 @@
 <a href="https://fsd-react-todo-list.netlify.app/" target="_blank">Preview</a>
 
 ## Screenshot
-
+Preview<img src="https://github.com/shaikabdulcader/react-todo-list/blob/main/public/Screenshot%202024-01-26%20200743.png">
 
 ## Setup
 <p>Following are the requirements to run this project:</p>
